@@ -1,0 +1,390 @@
+It: 0, Loss: 3.728e+00, Time: 0.57
+It: 10, Loss: 3.399e+00, Time: 3.72
+It: 20, Loss: 2.799e+00, Time: 3.74
+It: 30, Loss: 2.384e+00, Time: 3.76
+It: 40, Loss: 2.070e+00, Time: 3.74
+It: 50, Loss: 1.757e+00, Time: 3.91
+It: 60, Loss: 1.437e+00, Time: 4.04
+It: 70, Loss: 1.343e+00, Time: 4.00
+It: 80, Loss: 1.290e+00, Time: 3.99
+It: 90, Loss: 1.250e+00, Time: 3.99
+It: 100, Loss: 1.218e+00, Time: 3.97
+It: 110, Loss: 1.190e+00, Time: 4.03
+It: 120, Loss: 1.164e+00, Time: 4.04
+It: 130, Loss: 1.140e+00, Time: 4.01
+It: 140, Loss: 1.119e+00, Time: 3.98
+It: 150, Loss: 1.097e+00, Time: 4.02
+It: 160, Loss: 1.074e+00, Time: 4.04
+It: 170, Loss: 1.049e+00, Time: 3.99
+It: 180, Loss: 1.023e+00, Time: 3.99
+It: 190, Loss: 1.018e+00, Time: 4.00
+It: 200, Loss: 9.899e-01, Time: 4.00
+It: 210, Loss: 9.671e-01, Time: 3.99
+It: 220, Loss: 9.543e-01, Time: 3.98
+It: 230, Loss: 9.427e-01, Time: 3.99
+It: 240, Loss: 9.569e-01, Time: 4.00
+It: 250, Loss: 9.218e-01, Time: 4.20
+It: 260, Loss: 9.143e-01, Time: 4.03
+It: 270, Loss: 9.072e-01, Time: 4.02
+It: 280, Loss: 8.981e-01, Time: 4.06
+It: 290, Loss: 9.986e-01, Time: 3.98
+Iter: 00100, Loss: 5.88e-01, s: 8.946e-02, vx: 5.263e-03, vy: 7.754e-04, fp: 4.479e-01, fs: 3.522e-02, fv: 9.182e-03
+Iter: 00200, Loss: 8.22e-02, s: 2.685e-02, vx: 1.849e-03, vy: 5.026e-04, fp: 1.215e-02, fs: 3.614e-02, fv: 4.717e-03
+Iter: 00300, Loss: 4.66e-02, s: 1.645e-02, vx: 1.460e-03, vy: 2.981e-04, fp: 6.967e-03, fs: 1.985e-02, fv: 1.597e-03
+Iter: 00400, Loss: 3.42e-02, s: 1.215e-02, vx: 1.282e-03, vy: 1.677e-04, fp: 3.825e-03, fs: 1.573e-02, fv: 1.095e-03
+Iter: 00500, Loss: 2.79e-02, s: 8.181e-03, vx: 1.265e-03, vy: 1.525e-04, fp: 3.803e-03, fs: 1.381e-02, fv: 6.484e-04
+Iter: 00600, Loss: 1.78e-02, s: 2.927e-03, vx: 3.982e-04, vy: 8.993e-05, fp: 3.319e-03, fs: 9.983e-03, fv: 1.066e-03
+Iter: 00700, Loss: 1.26e-02, s: 1.530e-03, vx: 3.971e-04, vy: 4.219e-05, fp: 2.584e-03, fs: 7.856e-03, fv: 2.300e-04
+Iter: 00800, Loss: 1.09e-02, s: 1.272e-03, vx: 3.680e-04, vy: 3.810e-05, fp: 2.457e-03, fs: 6.553e-03, fv: 2.107e-04
+Iter: 00900, Loss: 9.80e-03, s: 1.356e-03, vx: 4.136e-04, vy: 4.001e-05, fp: 1.934e-03, fs: 5.914e-03, fv: 1.422e-04
+Iter: 01000, Loss: 8.96e-03, s: 1.110e-03, vx: 4.289e-04, vy: 3.937e-05, fp: 1.773e-03, fs: 5.432e-03, fv: 1.746e-04
+It: 0, Loss: 1.811e-01, Time: 0.46
+It: 10, Loss: 2.324e+00, Time: 4.37
+It: 20, Loss: 2.075e+00, Time: 4.54
+It: 30, Loss: 1.805e+00, Time: 4.47
+It: 40, Loss: 1.542e+00, Time: 4.52
+It: 50, Loss: 1.170e+00, Time: 4.77
+It: 60, Loss: 1.017e+00, Time: 4.62
+It: 70, Loss: 7.448e-01, Time: 4.67
+It: 80, Loss: 4.950e-01, Time: 4.31
+It: 90, Loss: 3.795e-01, Time: 4.30
+It: 100, Loss: 2.318e-01, Time: 4.21
+It: 110, Loss: 2.002e-01, Time: 4.05
+It: 120, Loss: 1.750e-01, Time: 4.03
+It: 130, Loss: 1.607e-01, Time: 4.01
+It: 140, Loss: 1.515e-01, Time: 4.07
+It: 150, Loss: 1.452e-01, Time: 4.11
+It: 160, Loss: 1.402e-01, Time: 4.11
+It: 170, Loss: 1.361e-01, Time: 4.06
+It: 180, Loss: 1.327e-01, Time: 4.08
+It: 190, Loss: 1.293e-01, Time: 4.05
+It: 200, Loss: 1.258e-01, Time: 4.03
+It: 210, Loss: 1.216e-01, Time: 4.03
+It: 220, Loss: 1.164e-01, Time: 4.02
+It: 230, Loss: 1.108e-01, Time: 4.04
+It: 240, Loss: 1.068e-01, Time: 4.06
+It: 250, Loss: 1.041e-01, Time: 4.08
+It: 260, Loss: 1.604e-01, Time: 4.06
+It: 270, Loss: 1.180e-01, Time: 4.10
+It: 280, Loss: 1.003e-01, Time: 4.07
+It: 290, Loss: 9.402e-02, Time: 4.11
+Iter: 00100, Loss: 2.27e-02, s: 5.259e-03, vx: 5.222e-04, vy: 9.105e-05, fp: 4.379e-03, fs: 1.130e-02, fv: 1.190e-03
+Iter: 00200, Loss: 1.17e-02, s: 2.844e-03, vx: 8.251e-05, vy: 1.776e-05, fp: 1.678e-03, fs: 6.697e-03, fv: 4.223e-04
+Iter: 00300, Loss: 7.76e-03, s: 2.182e-03, vx: 3.166e-05, vy: 1.977e-05, fp: 1.243e-03, fs: 4.032e-03, fv: 2.542e-04
+Iter: 00400, Loss: 5.65e-03, s: 1.304e-03, vx: 5.236e-05, vy: 2.008e-05, fp: 9.444e-04, fs: 3.195e-03, fv: 1.331e-04
+Iter: 00500, Loss: 4.37e-03, s: 9.171e-04, vx: 6.148e-05, vy: 3.378e-06, fp: 7.765e-04, fs: 2.469e-03, fv: 1.418e-04
+Iter: 00600, Loss: 3.33e-03, s: 6.498e-04, vx: 4.181e-05, vy: 3.282e-06, fp: 7.572e-04, fs: 1.777e-03, fv: 1.023e-04
+Iter: 00700, Loss: 2.57e-03, s: 5.423e-04, vx: 4.483e-05, vy: 2.478e-06, fp: 5.908e-04, fs: 1.338e-03, fv: 5.660e-05
+Iter: 00800, Loss: 2.08e-03, s: 4.243e-04, vx: 6.026e-05, vy: 2.234e-06, fp: 3.973e-04, fs: 1.146e-03, fv: 5.343e-05
+Iter: 00900, Loss: 1.76e-03, s: 3.301e-04, vx: 6.279e-05, vy: 4.173e-07, fp: 3.884e-04, fs: 9.519e-04, fv: 2.702e-05
+Iter: 01000, Loss: 1.54e-03, s: 2.832e-04, vx: 7.283e-05, vy: 1.866e-06, fp: 3.130e-04, fs: 8.479e-04, fv: 2.533e-05
+It: 0, Loss: 1.383e-03, Time: 0.42
+It: 10, Loss: 1.413e-03, Time: 3.96
+It: 20, Loss: 1.389e-03, Time: 4.04
+It: 30, Loss: 1.359e-03, Time: 3.98
+It: 40, Loss: 1.343e-03, Time: 3.95
+It: 50, Loss: 1.336e-03, Time: 3.97
+It: 60, Loss: 1.330e-03, Time: 3.98
+It: 70, Loss: 1.326e-03, Time: 3.94
+It: 80, Loss: 1.323e-03, Time: 3.95
+It: 90, Loss: 1.320e-03, Time: 4.05
+It: 100, Loss: 1.317e-03, Time: 4.17
+It: 110, Loss: 1.315e-03, Time: 4.03
+It: 120, Loss: 1.312e-03, Time: 3.96
+It: 130, Loss: 1.310e-03, Time: 3.96
+It: 140, Loss: 1.307e-03, Time: 3.98
+It: 150, Loss: 1.305e-03, Time: 3.96
+It: 160, Loss: 1.303e-03, Time: 3.96
+It: 170, Loss: 1.301e-03, Time: 3.94
+It: 180, Loss: 1.299e-03, Time: 3.95
+It: 190, Loss: 1.297e-03, Time: 3.90
+It: 200, Loss: 1.295e-03, Time: 3.92
+It: 210, Loss: 1.293e-03, Time: 3.94
+It: 220, Loss: 1.291e-03, Time: 3.97
+It: 230, Loss: 1.290e-03, Time: 4.01
+It: 240, Loss: 1.288e-03, Time: 3.94
+It: 250, Loss: 1.286e-03, Time: 3.93
+It: 260, Loss: 1.284e-03, Time: 3.93
+It: 270, Loss: 1.283e-03, Time: 3.97
+It: 280, Loss: 1.281e-03, Time: 4.06
+It: 290, Loss: 1.279e-03, Time: 3.97
+Iter: 00100, Loss: 1.14e-03, s: 2.391e-04, vx: 4.312e-05, vy: 1.347e-07, fp: 2.223e-04, fs: 6.256e-04, fv: 5.996e-06
+Iter: 00200, Loss: 9.81e-04, s: 2.373e-04, vx: 4.872e-05, vy: 2.218e-07, fp: 1.915e-04, fs: 4.948e-04, fv: 8.169e-06
+Iter: 00300, Loss: 8.48e-04, s: 1.710e-04, vx: 5.260e-05, vy: 8.400e-08, fp: 1.869e-04, fs: 4.305e-04, fv: 7.255e-06
+Iter: 00400, Loss: 7.48e-04, s: 1.288e-04, vx: 5.026e-05, vy: 4.395e-08, fp: 1.890e-04, fs: 3.768e-04, fv: 3.297e-06
+Iter: 00500, Loss: 6.56e-04, s: 1.112e-04, vx: 5.475e-05, vy: 2.985e-07, fp: 1.473e-04, fs: 3.379e-04, fv: 4.272e-06
+Iter: 00600, Loss: 5.60e-04, s: 8.091e-05, vx: 3.119e-05, vy: 1.795e-07, fp: 1.476e-04, fs: 2.951e-04, fv: 4.914e-06
+Iter: 00700, Loss: 4.63e-04, s: 6.445e-05, vx: 1.257e-05, vy: 3.154e-07, fp: 1.205e-04, fs: 2.608e-04, fv: 4.674e-06
+Iter: 00800, Loss: 3.83e-04, s: 5.182e-05, vx: 1.081e-05, vy: 1.462e-07, fp: 1.015e-04, fs: 2.166e-04, fv: 2.554e-06
+Iter: 00900, Loss: 3.05e-04, s: 2.858e-05, vx: 6.526e-06, vy: 4.711e-08, fp: 8.069e-05, fs: 1.859e-04, fv: 2.924e-06
+Iter: 01000, Loss: 2.49e-04, s: 2.038e-05, vx: 4.789e-06, vy: 6.275e-08, fp: 6.843e-05, fs: 1.534e-04, fv: 2.282e-06
+It: 0, Loss: 2.243e-04, Time: 0.42
+It: 10, Loss: 2.234e-04, Time: 3.98
+It: 20, Loss: 2.226e-04, Time: 3.93
+It: 30, Loss: 2.220e-04, Time: 3.96
+It: 40, Loss: 2.215e-04, Time: 4.01
+It: 50, Loss: 2.210e-04, Time: 3.98
+It: 60, Loss: 2.206e-04, Time: 3.99
+It: 70, Loss: 2.202e-04, Time: 3.95
+It: 80, Loss: 2.198e-04, Time: 3.92
+It: 90, Loss: 2.195e-04, Time: 3.96
+It: 100, Loss: 2.192e-04, Time: 3.92
+It: 110, Loss: 2.189e-04, Time: 3.98
+It: 120, Loss: 2.186e-04, Time: 4.01
+It: 130, Loss: 2.183e-04, Time: 4.01
+It: 140, Loss: 2.180e-04, Time: 3.94
+It: 150, Loss: 2.177e-04, Time: 3.95
+It: 160, Loss: 2.174e-04, Time: 3.97
+It: 170, Loss: 2.172e-04, Time: 3.97
+It: 180, Loss: 2.169e-04, Time: 3.94
+It: 190, Loss: 2.167e-04, Time: 4.00
+It: 200, Loss: 2.164e-04, Time: 4.04
+It: 210, Loss: 2.162e-04, Time: 3.93
+It: 220, Loss: 2.159e-04, Time: 4.00
+It: 230, Loss: 2.157e-04, Time: 3.99
+It: 240, Loss: 2.154e-04, Time: 3.95
+It: 250, Loss: 2.152e-04, Time: 3.94
+It: 260, Loss: 2.150e-04, Time: 4.00
+It: 270, Loss: 2.147e-04, Time: 4.00
+It: 280, Loss: 2.145e-04, Time: 3.95
+It: 290, Loss: 2.143e-04, Time: 3.97
+Iter: 00100, Loss: 1.90e-04, s: 1.859e-05, vx: 3.376e-06, vy: 1.255e-08, fp: 4.753e-05, fs: 1.195e-04, fv: 5.480e-07
+Iter: 00200, Loss: 1.70e-04, s: 1.439e-05, vx: 4.643e-06, vy: 1.842e-08, fp: 3.921e-05, fs: 1.111e-04, fv: 3.909e-07
+Iter: 00300, Loss: 1.53e-04, s: 1.482e-05, vx: 3.823e-06, vy: 7.913e-09, fp: 3.814e-05, fs: 9.599e-05, fv: 3.988e-07
+Iter: 00400, Loss: 1.32e-04, s: 1.133e-05, vx: 1.727e-06, vy: 3.686e-08, fp: 3.386e-05, fs: 8.465e-05, fv: 7.433e-07
+Iter: 00500, Loss: 1.19e-04, s: 8.465e-06, vx: 1.279e-06, vy: 8.581e-09, fp: 2.829e-05, fs: 8.033e-05, fv: 5.957e-07
+Iter: 00600, Loss: 1.11e-04, s: 7.233e-06, vx: 1.368e-06, vy: 2.211e-08, fp: 2.587e-05, fs: 7.573e-05, fv: 6.093e-07
+Iter: 00700, Loss: 1.03e-04, s: 6.110e-06, vx: 1.471e-06, vy: 5.512e-09, fp: 2.500e-05, fs: 6.995e-05, fv: 4.550e-07
+Iter: 00800, Loss: 9.41e-05, s: 5.751e-06, vx: 1.394e-06, vy: 1.822e-08, fp: 2.341e-05, fs: 6.317e-05, fv: 3.677e-07
+Iter: 00900, Loss: 8.75e-05, s: 5.713e-06, vx: 1.416e-06, vy: 1.836e-08, fp: 2.121e-05, fs: 5.875e-05, fv: 3.998e-07
+Iter: 01000, Loss: 8.08e-05, s: 5.233e-06, vx: 9.911e-07, vy: 6.394e-09, fp: 1.999e-05, fs: 5.435e-05, fv: 2.498e-07
+It: 0, Loss: 7.440e-05, Time: 0.49
+It: 10, Loss: 7.419e-05, Time: 4.74
+It: 20, Loss: 7.400e-05, Time: 4.75
+It: 30, Loss: 7.384e-05, Time: 4.89
+It: 40, Loss: 7.370e-05, Time: 4.61
+It: 50, Loss: 7.358e-05, Time: 4.35
+It: 60, Loss: 7.348e-05, Time: 4.40
+It: 70, Loss: 7.338e-05, Time: 4.35
+It: 80, Loss: 7.329e-05, Time: 4.30
+It: 90, Loss: 7.320e-05, Time: 4.84
+It: 100, Loss: 7.312e-05, Time: 5.31
+It: 110, Loss: 7.304e-05, Time: 4.80
+It: 120, Loss: 7.296e-05, Time: 4.37
+It: 130, Loss: 7.289e-05, Time: 4.13
+It: 140, Loss: 7.281e-05, Time: 4.30
+It: 150, Loss: 7.274e-05, Time: 4.12
+It: 160, Loss: 7.268e-05, Time: 4.16
+It: 170, Loss: 7.261e-05, Time: 4.15
+It: 180, Loss: 7.254e-05, Time: 4.42
+It: 190, Loss: 7.248e-05, Time: 4.10
+It: 200, Loss: 7.242e-05, Time: 4.00
+It: 210, Loss: 7.236e-05, Time: 4.01
+It: 220, Loss: 7.230e-05, Time: 3.96
+It: 230, Loss: 7.224e-05, Time: 4.04
+It: 240, Loss: 7.218e-05, Time: 4.01
+It: 250, Loss: 7.212e-05, Time: 4.08
+It: 260, Loss: 7.207e-05, Time: 4.21
+It: 270, Loss: 7.201e-05, Time: 4.25
+It: 280, Loss: 7.196e-05, Time: 4.09
+It: 290, Loss: 7.191e-05, Time: 4.11
+It: 0, Loss: 7.186e-05, Time: 0.42
+It: 10, Loss: 7.180e-05, Time: 4.06
+It: 20, Loss: 7.175e-05, Time: 4.03
+It: 30, Loss: 7.170e-05, Time: 4.03
+It: 40, Loss: 7.165e-05, Time: 4.06
+It: 50, Loss: 7.161e-05, Time: 4.00
+It: 60, Loss: 7.173e-05, Time: 4.05
+It: 70, Loss: 9.965e-05, Time: 4.00
+It: 80, Loss: 7.927e-03, Time: 4.04
+It: 90, Loss: 8.601e-03, Time: 4.07
+It: 100, Loss: 1.595e-03, Time: 4.05
+It: 110, Loss: 8.807e-05, Time: 4.03
+It: 120, Loss: 3.218e-04, Time: 4.04
+It: 130, Loss: 1.877e-04, Time: 4.07
+It: 140, Loss: 8.130e-05, Time: 4.05
+It: 150, Loss: 8.675e-05, Time: 4.04
+It: 160, Loss: 7.701e-05, Time: 4.01
+It: 170, Loss: 7.157e-05, Time: 4.01
+It: 180, Loss: 7.154e-05, Time: 4.08
+It: 190, Loss: 7.141e-05, Time: 4.10
+It: 200, Loss: 7.121e-05, Time: 4.05
+It: 210, Loss: 7.113e-05, Time: 4.01
+It: 220, Loss: 7.109e-05, Time: 4.14
+It: 230, Loss: 7.099e-05, Time: 4.10
+It: 240, Loss: 7.093e-05, Time: 4.08
+It: 250, Loss: 7.088e-05, Time: 4.41
+It: 260, Loss: 7.124e-05, Time: 4.17
+It: 270, Loss: 1.173e-04, Time: 3.97
+It: 280, Loss: 8.556e-03, Time: 4.01
+It: 290, Loss: 1.399e-02, Time: 3.98
+Iter: 00100, Loss: 7.01e-05, s: 3.481e-06, vx: 8.067e-07, vy: 1.526e-09, fp: 1.796e-05, fs: 4.781e-05, fv: 5.691e-08
+Iter: 00200, Loss: 6.67e-05, s: 3.718e-06, vx: 8.179e-07, vy: 3.412e-10, fp: 1.564e-05, fs: 4.650e-05, fv: 3.703e-08
+Iter: 00300, Loss: 6.37e-05, s: 3.248e-06, vx: 7.364e-07, vy: 6.329e-10, fp: 1.420e-05, fs: 4.545e-05, fv: 3.368e-08
+Iter: 00400, Loss: 6.07e-05, s: 2.830e-06, vx: 7.839e-07, vy: 8.294e-10, fp: 1.260e-05, fs: 4.441e-05, fv: 5.070e-08
+Iter: 00500, Loss: 5.84e-05, s: 2.848e-06, vx: 5.855e-07, vy: 2.726e-09, fp: 1.268e-05, fs: 4.225e-05, fv: 6.549e-08
+Iter: 00600, Loss: 5.58e-05, s: 2.519e-06, vx: 6.071e-07, vy: 8.728e-10, fp: 1.172e-05, fs: 4.089e-05, fv: 4.185e-08
+Iter: 00700, Loss: 5.26e-05, s: 1.960e-06, vx: 6.358e-07, vy: 3.028e-10, fp: 1.178e-05, fs: 3.819e-05, fv: 4.908e-08
+Iter: 00800, Loss: 5.04e-05, s: 2.140e-06, vx: 7.431e-07, vy: 1.313e-09, fp: 1.142e-05, fs: 3.604e-05, fv: 5.230e-08
+Iter: 00900, Loss: 4.77e-05, s: 1.881e-06, vx: 1.087e-06, vy: 1.672e-09, fp: 1.109e-05, fs: 3.357e-05, fv: 4.830e-08
+Iter: 01000, Loss: 4.49e-05, s: 1.354e-06, vx: 8.189e-07, vy: 7.289e-09, fp: 1.192e-05, fs: 3.074e-05, fv: 8.957e-08
+It: 0, Loss: 3.153e-03, Time: 0.42
+It: 10, Loss: 9.039e-04, Time: 3.98
+It: 20, Loss: 5.139e-04, Time: 4.09
+It: 30, Loss: 2.931e-04, Time: 4.22
+It: 40, Loss: 1.645e-04, Time: 4.21
+It: 50, Loss: 5.535e-05, Time: 4.64
+It: 60, Loss: 5.338e-05, Time: 4.28
+It: 70, Loss: 4.646e-05, Time: 4.43
+It: 80, Loss: 4.455e-05, Time: 4.82
+It: 90, Loss: 4.241e-05, Time: 4.52
+It: 100, Loss: 4.239e-05, Time: 4.04
+It: 110, Loss: 4.229e-05, Time: 4.02
+It: 120, Loss: 4.217e-05, Time: 3.99
+It: 130, Loss: 4.209e-05, Time: 4.02
+It: 140, Loss: 4.203e-05, Time: 3.99
+It: 150, Loss: 4.198e-05, Time: 3.98
+It: 160, Loss: 4.194e-05, Time: 4.01
+It: 170, Loss: 4.189e-05, Time: 4.02
+It: 180, Loss: 4.189e-05, Time: 4.00
+It: 190, Loss: 4.466e-05, Time: 3.97
+It: 200, Loss: 1.064e-04, Time: 3.98
+It: 210, Loss: 5.079e-03, Time: 3.97
+It: 220, Loss: 2.758e-03, Time: 3.99
+It: 230, Loss: 2.297e-03, Time: 4.00
+It: 240, Loss: 1.918e-03, Time: 4.00
+It: 250, Loss: 5.923e-04, Time: 4.00
+It: 260, Loss: 1.359e-04, Time: 4.01
+It: 270, Loss: 2.099e-04, Time: 4.00
+It: 280, Loss: 1.076e-04, Time: 4.03
+It: 290, Loss: 5.472e-05, Time: 3.99
+Iter: 00100, Loss: 4.08e-05, s: 1.242e-06, vx: 8.235e-07, vy: 3.927e-10, fp: 1.058e-05, fs: 2.807e-05, fv: 3.022e-08
+Iter: 00200, Loss: 3.93e-05, s: 1.145e-06, vx: 6.098e-07, vy: 1.913e-10, fp: 9.706e-06, fs: 2.783e-05, fv: 2.666e-08
+Iter: 00300, Loss: 3.78e-05, s: 9.957e-07, vx: 6.234e-07, vy: 3.899e-10, fp: 9.119e-06, fs: 2.706e-05, fv: 2.768e-08
+Iter: 00400, Loss: 3.65e-05, s: 9.980e-07, vx: 7.055e-07, vy: 4.833e-10, fp: 8.576e-06, fs: 2.617e-05, fv: 3.473e-08
+Iter: 00500, Loss: 3.54e-05, s: 9.114e-07, vx: 7.366e-07, vy: 5.103e-10, fp: 8.247e-06, fs: 2.549e-05, fv: 2.830e-08
+Iter: 00600, Loss: 3.44e-05, s: 1.042e-06, vx: 4.941e-07, vy: 4.567e-10, fp: 8.147e-06, fs: 2.471e-05, fv: 3.175e-08
+Iter: 00700, Loss: 3.33e-05, s: 1.043e-06, vx: 5.514e-07, vy: 4.007e-10, fp: 7.751e-06, fs: 2.395e-05, fv: 2.129e-08
+Iter: 00800, Loss: 3.25e-05, s: 9.952e-07, vx: 4.233e-07, vy: 1.237e-09, fp: 7.762e-06, fs: 2.330e-05, fv: 3.521e-08
+Iter: 00900, Loss: 3.16e-05, s: 8.506e-07, vx: 4.298e-07, vy: 4.030e-10, fp: 7.804e-06, fs: 2.248e-05, fv: 3.420e-08
+Iter: 01000, Loss: 3.06e-05, s: 8.472e-07, vx: 3.288e-07, vy: 3.675e-10, fp: 7.663e-06, fs: 2.169e-05, fv: 1.879e-08
+It: 0, Loss: 5.851e-05, Time: 0.43
+It: 10, Loss: 8.095e-05, Time: 3.98
+It: 20, Loss: 3.395e-05, Time: 3.98
+It: 30, Loss: 3.258e-05, Time: 3.96
+It: 40, Loss: 3.129e-05, Time: 3.95
+It: 50, Loss: 2.993e-05, Time: 3.98
+It: 60, Loss: 2.924e-05, Time: 4.00
+It: 70, Loss: 2.885e-05, Time: 4.02
+It: 80, Loss: 2.876e-05, Time: 4.05
+It: 90, Loss: 2.880e-05, Time: 4.07
+It: 100, Loss: 2.933e-05, Time: 4.08
+It: 110, Loss: 4.915e-05, Time: 4.03
+It: 120, Loss: 1.399e-03, Time: 3.96
+It: 130, Loss: 2.003e-02, Time: 3.97
+It: 140, Loss: 8.067e-03, Time: 3.94
+It: 150, Loss: 1.012e-04, Time: 3.96
+It: 160, Loss: 9.610e-04, Time: 4.02
+It: 170, Loss: 4.205e-04, Time: 3.96
+It: 180, Loss: 1.149e-04, Time: 4.09
+It: 190, Loss: 5.685e-05, Time: 4.04
+It: 200, Loss: 5.172e-05, Time: 4.08
+It: 210, Loss: 1.366e-04, Time: 4.08
+It: 220, Loss: 2.051e-03, Time: 4.01
+It: 230, Loss: 1.118e-03, Time: 4.03
+It: 240, Loss: 6.038e-04, Time: 4.01
+It: 250, Loss: 6.583e-04, Time: 4.01
+It: 260, Loss: 3.679e-03, Time: 3.99
+It: 270, Loss: 4.085e-03, Time: 4.02
+It: 280, Loss: 2.255e-03, Time: 3.96
+It: 290, Loss: 1.649e-04, Time: 3.98
+Iter: 00100, Loss: 2.82e-05, s: 8.402e-07, vx: 4.003e-07, vy: 2.408e-10, fp: 7.034e-06, fs: 1.989e-05, fv: 1.807e-08
+Iter: 00200, Loss: 2.75e-05, s: 8.798e-07, vx: 3.776e-07, vy: 3.033e-10, fp: 6.562e-06, fs: 1.964e-05, fv: 1.293e-08
+Iter: 00300, Loss: 2.68e-05, s: 7.604e-07, vx: 3.643e-07, vy: 3.144e-10, fp: 6.197e-06, fs: 1.946e-05, fv: 1.713e-08
+Iter: 00400, Loss: 2.62e-05, s: 6.035e-07, vx: 3.456e-07, vy: 3.006e-10, fp: 6.084e-06, fs: 1.912e-05, fv: 1.919e-08
+Iter: 00500, Loss: 2.55e-05, s: 5.640e-07, vx: 3.683e-07, vy: 1.659e-10, fp: 5.801e-06, fs: 1.876e-05, fv: 1.609e-08
+Iter: 00600, Loss: 2.49e-05, s: 5.327e-07, vx: 3.482e-07, vy: 1.663e-10, fp: 5.761e-06, fs: 1.823e-05, fv: 1.516e-08
+Iter: 00700, Loss: 2.42e-05, s: 4.216e-07, vx: 4.474e-07, vy: 3.100e-10, fp: 5.349e-06, fs: 1.799e-05, fv: 2.330e-08
+Iter: 00800, Loss: 2.37e-05, s: 3.972e-07, vx: 3.545e-07, vy: 7.790e-10, fp: 5.535e-06, fs: 1.738e-05, fv: 1.809e-08
+Iter: 00900, Loss: 2.30e-05, s: 3.672e-07, vx: 3.962e-07, vy: 9.001e-10, fp: 5.507e-06, fs: 1.672e-05, fv: 1.905e-08
+Iter: 01000, Loss: 2.23e-05, s: 3.378e-07, vx: 3.109e-07, vy: 1.686e-09, fp: 6.074e-06, fs: 1.553e-05, fv: 2.155e-08
+It: 0, Loss: 2.059e-03, Time: 0.42
+It: 10, Loss: 7.990e-03, Time: 4.05
+It: 20, Loss: 9.087e-04, Time: 4.04
+It: 30, Loss: 2.057e-03, Time: 4.00
+It: 40, Loss: 6.697e-04, Time: 4.07
+It: 50, Loss: 8.737e-05, Time: 3.98
+It: 60, Loss: 1.212e-04, Time: 4.04
+It: 70, Loss: 4.774e-05, Time: 4.00
+It: 80, Loss: 3.006e-05, Time: 4.38
+It: 90, Loss: 9.401e-05, Time: 4.33
+It: 100, Loss: 1.273e-03, Time: 4.11
+It: 110, Loss: 1.023e-04, Time: 4.08
+It: 120, Loss: 5.902e-05, Time: 4.04
+It: 130, Loss: 1.734e-04, Time: 4.12
+It: 140, Loss: 3.166e-05, Time: 4.09
+It: 150, Loss: 2.829e-05, Time: 4.12
+It: 160, Loss: 9.407e-05, Time: 4.17
+It: 170, Loss: 2.271e-03, Time: 4.02
+It: 180, Loss: 1.026e-02, Time: 3.99
+It: 190, Loss: 1.393e-03, Time: 3.96
+It: 200, Loss: 1.131e-03, Time: 3.96
+It: 210, Loss: 4.949e-04, Time: 4.04
+It: 220, Loss: 2.092e-04, Time: 4.01
+It: 230, Loss: 1.162e-04, Time: 3.98
+It: 240, Loss: 1.648e-04, Time: 4.15
+It: 250, Loss: 1.590e-04, Time: 4.26
+It: 260, Loss: 1.403e-03, Time: 4.22
+It: 270, Loss: 1.474e-02, Time: 4.46
+It: 280, Loss: 4.230e-03, Time: 4.57
+It: 290, Loss: 1.787e-03, Time: 4.28
+Iter: 00100, Loss: 2.16e-05, s: 3.723e-07, vx: 3.505e-07, vy: 1.915e-10, fp: 5.899e-06, fs: 1.498e-05, fv: 2.117e-08
+Iter: 00200, Loss: 2.09e-05, s: 3.274e-07, vx: 3.598e-07, vy: 1.433e-10, fp: 5.483e-06, fs: 1.473e-05, fv: 1.390e-08
+Iter: 00300, Loss: 2.04e-05, s: 3.555e-07, vx: 3.665e-07, vy: 3.596e-10, fp: 5.097e-06, fs: 1.459e-05, fv: 1.289e-08
+Iter: 00400, Loss: 1.99e-05, s: 3.072e-07, vx: 3.771e-07, vy: 1.756e-10, fp: 4.739e-06, fs: 1.444e-05, fv: 1.625e-08
+Iter: 00500, Loss: 1.95e-05, s: 3.453e-07, vx: 3.697e-07, vy: 3.189e-10, fp: 4.590e-06, fs: 1.417e-05, fv: 1.505e-08
+Iter: 00600, Loss: 1.91e-05, s: 3.738e-07, vx: 3.311e-07, vy: 1.302e-10, fp: 4.512e-06, fs: 1.386e-05, fv: 1.423e-08
+Iter: 00700, Loss: 1.87e-05, s: 3.810e-07, vx: 2.558e-07, vy: 1.000e-10, fp: 4.465e-06, fs: 1.357e-05, fv: 1.247e-08
+Iter: 00800, Loss: 1.83e-05, s: 4.495e-07, vx: 2.072e-07, vy: 1.012e-10, fp: 4.369e-06, fs: 1.323e-05, fv: 1.130e-08
+Iter: 00900, Loss: 1.80e-05, s: 4.485e-07, vx: 2.294e-07, vy: 1.577e-10, fp: 4.337e-06, fs: 1.299e-05, fv: 1.272e-08
+Iter: 01000, Loss: 1.77e-05, s: 4.514e-07, vx: 1.672e-07, vy: 1.156e-09, fp: 4.429e-06, fs: 1.261e-05, fv: 1.913e-08
+It: 0, Loss: 6.365e-04, Time: 0.43
+It: 10, Loss: 1.344e-03, Time: 3.93
+It: 20, Loss: 7.809e-04, Time: 3.96
+It: 30, Loss: 4.947e-04, Time: 3.94
+It: 40, Loss: 2.744e-04, Time: 3.99
+It: 50, Loss: 1.422e-04, Time: 4.00
+It: 60, Loss: 3.113e-05, Time: 3.96
+It: 70, Loss: 1.023e-04, Time: 3.96
+It: 80, Loss: 1.049e-03, Time: 3.97
+It: 90, Loss: 1.322e-02, Time: 3.93
+It: 100, Loss: 2.876e-03, Time: 3.97
+It: 110, Loss: 1.872e-03, Time: 4.01
+It: 120, Loss: 9.842e-04, Time: 4.05
+It: 130, Loss: 3.340e-04, Time: 4.02
+It: 140, Loss: 3.387e-04, Time: 4.07
+It: 150, Loss: 7.916e-04, Time: 4.06
+It: 160, Loss: 6.749e-05, Time: 4.01
+It: 170, Loss: 2.942e-04, Time: 4.00
+It: 180, Loss: 1.141e-03, Time: 4.01
+It: 190, Loss: 1.580e-03, Time: 4.09
+It: 200, Loss: 1.955e-02, Time: 4.06
+It: 210, Loss: 4.167e-03, Time: 4.03
+It: 220, Loss: 3.699e-04, Time: 4.10
+It: 230, Loss: 8.253e-04, Time: 4.08
+It: 240, Loss: 3.933e-04, Time: 4.05
+It: 250, Loss: 5.130e-04, Time: 4.02
+It: 260, Loss: 9.751e-04, Time: 3.99
+It: 270, Loss: 2.990e-04, Time: 4.08
+It: 280, Loss: 7.789e-05, Time: 4.03
+It: 290, Loss: 7.921e-05, Time: 4.08
+Iter: 00100, Loss: 1.73e-05, s: 3.998e-07, vx: 2.344e-07, vy: 3.862e-10, fp: 4.432e-06, fs: 1.221e-05, fv: 2.064e-08
+Iter: 00200, Loss: 1.69e-05, s: 4.248e-07, vx: 2.174e-07, vy: 1.278e-10, fp: 4.176e-06, fs: 1.207e-05, fv: 1.072e-08
+Iter: 00300, Loss: 1.67e-05, s: 3.944e-07, vx: 2.136e-07, vy: 2.007e-10, fp: 4.020e-06, fs: 1.204e-05, fv: 1.070e-08
+Iter: 00400, Loss: 1.64e-05, s: 3.500e-07, vx: 2.305e-07, vy: 6.918e-11, fp: 3.849e-06, fs: 1.199e-05, fv: 1.008e-08
+Iter: 00500, Loss: 1.62e-05, s: 3.335e-07, vx: 2.455e-07, vy: 4.004e-10, fp: 3.768e-06, fs: 1.185e-05, fv: 1.095e-08
+Iter: 00600, Loss: 1.59e-05, s: 2.830e-07, vx: 2.369e-07, vy: 2.141e-10, fp: 3.680e-06, fs: 1.167e-05, fv: 1.402e-08
+Iter: 00700, Loss: 1.56e-05, s: 2.265e-07, vx: 2.460e-07, vy: 6.200e-10, fp: 3.659e-06, fs: 1.141e-05, fv: 1.365e-08
+Iter: 00800, Loss: 1.53e-05, s: 2.053e-07, vx: 2.282e-07, vy: 3.573e-10, fp: 3.615e-06, fs: 1.122e-05, fv: 1.230e-08
+Iter: 00900, Loss: 1.49e-05, s: 2.080e-07, vx: 2.443e-07, vy: 4.932e-10, fp: 3.693e-06, fs: 1.075e-05, fv: 1.380e-08
+Iter: 01000, Loss: 1.45e-05, s: 1.940e-07, vx: 1.964e-07, vy: 7.420e-10, fp: 3.680e-06, fs: 1.041e-05, fv: 1.897e-08
